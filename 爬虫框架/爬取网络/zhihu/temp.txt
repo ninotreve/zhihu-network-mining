@@ -1,0 +1,7 @@
+item['name'],item['answer_count'],item['articles_count'],item['badge_identity'],
+item['badge_best_answerer'],item['columns_count'],item['favorite_count'],
+item['favorited_count'],item['follower_count'],item['following_columns_count'],
+item['following_count'],item['following_favlists_count'],item['following_question_count'],
+item['following_topic_count'],item['gender'],item['hosted_live_count'],item['is_advertiser'],
+item['is_org'],item['logs_count'],item['pins_count'],item['question_count'],item['thanked_count'],
+item['url_token'],item['vip'],item['voteup_count']
