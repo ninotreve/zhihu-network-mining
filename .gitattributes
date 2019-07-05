@@ -1,1 +1,3 @@
 *.py linguist-language=python
+*.pptx linguist-language=python
+*.pdf linguist-language=python
